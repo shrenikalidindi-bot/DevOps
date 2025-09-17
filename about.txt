@@ -1,0 +1,3 @@
+Student: K.Bagya Sreni
+Course: BSC computers
+GitHub is used to store projects 
